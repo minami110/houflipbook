@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archeived. Please use [Flipbook ROP](https://www.sidefx.com/docs/houdini/nodes/out/flipbook.html).
+
 # houflipbook
 ![](https://i.gyazo.com/d53b7da48c54f1611b5fd5e7a51ba146.gif)
 
